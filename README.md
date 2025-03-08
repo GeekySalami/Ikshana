@@ -61,11 +61,9 @@ This repository contains **all project files**, including:
 ## 🎖 3D CAD Model
 - ✅ **Includes a precision-engineered 3D CAD model** ensuring a **perfect structural fit with the predefined solar panel**.
 
-## 🔍 Future Improvements
-- 🚀 **Optimized PCB layout for power efficiency**
-- 🚀 **Additional sensor modules for enhanced monitoring**
-- 🚀 **Improved wireless connectivity options**
-
 ## 🤝 Contributors
-- **Your Name** - PCB Design, Circuit Simulation
-- **Teammate Name** - Firmware Development
+- **Gaurav Haldar** -Team lead
+- **Sanchit Pawar**
+- **Aaditi Kadam**
+- **Ninad Sarpole**
+- **Sharvil Palvekar**
