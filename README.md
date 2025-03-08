@@ -38,14 +38,11 @@ This project is a **modular PCB for intelligent environmental monitoring**. It i
 - 💻 **Design Software**: KiCad, Autodesk Fusion 360
 - 🔌 **Communication Protocols**: UART, SPI, I2C
 
-## 📊 Architecture Diagram
-*(Include a system architecture diagram if needed.)*
-
 ## 📸 PCB Design Screenshots
 - ✅ **Complete PCB layout**
-- ✅ **3D rendered image of PCB**
-- ✅ **Front & Back copper layers**
 - ✅ **Schematic Diagram Screenshot**
+![image](https://github.com/user-attachments/assets/07034c6d-76cf-4ad0-a3a6-5e495c79c1ff)
+
 
 ## 🔍 Verification Checks
 - ✅ **Electrical Rule Check (ERC) Screenshot**
