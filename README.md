@@ -51,9 +51,6 @@ This project is a **modular PCB for intelligent environmental monitoring**. It i
 ## 📂 GitHub Repository
 This repository contains **all project files**, including:
 - 📁 **KiCad design files**
-- 📁 **Custom/imported component footprints**
-- 📁 **BOM (Bill of Materials)** for easy component sourcing
-- 📁 **Gerber files** for PCB manufacturing
 
 ## 🎖 3D CAD Model
 - ✅ **Includes a precision-engineered 3D CAD model** ensuring a **perfect structural fit with the predefined solar panel**.
